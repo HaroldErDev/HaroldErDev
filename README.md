@@ -1,7 +1,7 @@
 <h1 align="center">Ciao 👋, Io sono Tiziano</h1>
 <h3 align="center">Aspirante Ingegnere Informatico</h3>
 
-- 🌱 Sto attualmente imparando **REST, JSON, XML**
+- 🌱 Sto attualmente imparando **JS (JavaScript), REST, JSON, XML**
 
 - 👨‍💻 Potete trovare un altro mio progetto al seguente link: [https://gitlab.com/tower-defense-mc/tower-defense](https://gitlab.com/tower-defense-mc/tower-defense)
 
